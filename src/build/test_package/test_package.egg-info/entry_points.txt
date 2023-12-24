@@ -1,0 +1,3 @@
+[console_scripts]
+motion_capture = test_package.motion_capture:main
+

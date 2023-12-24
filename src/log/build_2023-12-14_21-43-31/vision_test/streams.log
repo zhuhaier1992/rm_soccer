@@ -1,0 +1,17 @@
+[1.552s] Invoking command in '/home/zhe/code/soccer_b_ws/src/build/vision_test': PYTHONPATH=/home/zhe/code/soccer_b_ws/src/build/vision_test/prefix_override:/home/zhe/code/soccer_b_ws/src/install/vision_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zhe/code/soccer_b_ws/src/build/vision_test/build --no-deps install_data
+[1.698s] running develop
+[1.773s] running egg_info
+[1.773s] writing vision_test.egg-info/PKG-INFO
+[1.774s] writing dependency_links to vision_test.egg-info/dependency_links.txt
+[1.775s] writing entry points to vision_test.egg-info/entry_points.txt
+[1.775s] writing requirements to vision_test.egg-info/requires.txt
+[1.775s] writing top-level names to vision_test.egg-info/top_level.txt
+[1.791s] reading manifest file 'vision_test.egg-info/SOURCES.txt'
+[1.791s] writing manifest file 'vision_test.egg-info/SOURCES.txt'
+[1.809s] running build_ext
+[1.810s] Creating /home/zhe/code/soccer_b_ws/src/install/vision_test/lib/python3.8/site-packages/vision-test.egg-link (link to .)
+[1.810s] Installing vision_get script to /home/zhe/code/soccer_b_ws/src/install/vision_test/lib/vision_test
+[1.810s] 
+[1.810s] Installed /home/zhe/code/soccer_b_ws/src/build/vision_test
+[1.810s] running install_data
+[2.551s] Invoked command in '/home/zhe/code/soccer_b_ws/src/build/vision_test' returned '0': PYTHONPATH=/home/zhe/code/soccer_b_ws/src/build/vision_test/prefix_override:/home/zhe/code/soccer_b_ws/src/install/vision_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zhe/code/soccer_b_ws/src/build/vision_test/build --no-deps install_data

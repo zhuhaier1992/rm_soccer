@@ -1,0 +1,3 @@
+[console_scripts]
+motion_capture = motion_capture.motion_capture:main
+

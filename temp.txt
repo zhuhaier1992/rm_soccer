@@ -1,0 +1,2 @@
+/home/zhe/code/soccer_b_ws/install/ros2_interfaces:/home/zhe/code/ffmpeg_msg/install/ffmpeg_image_transport_msgs:/home/zhe/code/ffmpeg/install/ffmpeg_image_transport:/home/zhe/code/ffmpeg/install/ffmpeg_image_transport_msgs:/home/zhe/code/rm_ws/install/robomaster_msgs:/home/zhe/code/rm_ws/install/robomaster_description:/home/zhe/code/gy_ws/install/learning_pkg_c:/home/zhe/code/gy_ws/install/learning_interface
+

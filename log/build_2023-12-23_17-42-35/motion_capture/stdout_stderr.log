@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing motion_capture.egg-info/PKG-INFO
+writing dependency_links to motion_capture.egg-info/dependency_links.txt
+writing entry points to motion_capture.egg-info/entry_points.txt
+writing requirements to motion_capture.egg-info/requires.txt
+writing top-level names to motion_capture.egg-info/top_level.txt
+reading manifest file 'motion_capture.egg-info/SOURCES.txt'
+writing manifest file 'motion_capture.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/zhe/code/soccer_b_ws/install/motion_capture/lib/python3.8/site-packages/motion-capture.egg-link (link to .)
+Installing inbetween script to /home/zhe/code/soccer_b_ws/install/motion_capture/lib/motion_capture
+Installing motion_capture script to /home/zhe/code/soccer_b_ws/install/motion_capture/lib/motion_capture
+
+Installed /home/zhe/code/soccer_b_ws/build/motion_capture
+running install_data

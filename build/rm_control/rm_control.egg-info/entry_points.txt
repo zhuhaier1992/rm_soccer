@@ -1,0 +1,5 @@
+[console_scripts]
+rm_control = rm_control.rm_control:main
+rm_test = rm_control.rm_test:main
+strategy = rm_control.strategy:main
+

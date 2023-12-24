@@ -1,0 +1,3 @@
+[console_scripts]
+vision_get = vision_test.vision_get:main
+

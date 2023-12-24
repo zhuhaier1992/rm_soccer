@@ -1,0 +1,21 @@
+[0.820s] Invoking command in '/home/zhe/code/soccer_b_ws/src/vision_test': PYTHONPATH=/home/zhe/code/soccer_b_ws/src/build/vision_test/prefix_override:/home/zhe/code/soccer_b_ws/src/install/vision_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/vision_test build --build-base /home/zhe/code/soccer_b_ws/src/build/vision_test/build install --record /home/zhe/code/soccer_b_ws/src/build/vision_test/install.log --single-version-externally-managed
+[0.960s] running egg_info
+[0.962s] writing ../build/vision_test/vision_test.egg-info/PKG-INFO
+[0.962s] writing dependency_links to ../build/vision_test/vision_test.egg-info/dependency_links.txt
+[0.963s] writing entry points to ../build/vision_test/vision_test.egg-info/entry_points.txt
+[0.964s] writing requirements to ../build/vision_test/vision_test.egg-info/requires.txt
+[0.964s] writing top-level names to ../build/vision_test/vision_test.egg-info/top_level.txt
+[0.981s] reading manifest file '../build/vision_test/vision_test.egg-info/SOURCES.txt'
+[0.982s] writing manifest file '../build/vision_test/vision_test.egg-info/SOURCES.txt'
+[0.983s] running build
+[0.983s] running build_py
+[0.984s] running install
+[0.985s] running install_lib
+[0.986s] running install_data
+[0.987s] running install_egg_info
+[0.987s] removing '/home/zhe/code/soccer_b_ws/src/install/vision_test/lib/python3.8/site-packages/vision_test-0.0.0-py3.8.egg-info' (and everything under it)
+[0.988s] Copying ../build/vision_test/vision_test.egg-info to /home/zhe/code/soccer_b_ws/src/install/vision_test/lib/python3.8/site-packages/vision_test-0.0.0-py3.8.egg-info
+[0.988s] running install_scripts
+[0.995s] Installing vision_get script to /home/zhe/code/soccer_b_ws/src/install/vision_test/lib/vision_test
+[0.996s] writing list of installed files to '/home/zhe/code/soccer_b_ws/src/build/vision_test/install.log'
+[1.627s] Invoked command in '/home/zhe/code/soccer_b_ws/src/vision_test' returned '0': PYTHONPATH=/home/zhe/code/soccer_b_ws/src/build/vision_test/prefix_override:/home/zhe/code/soccer_b_ws/src/install/vision_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/vision_test build --build-base /home/zhe/code/soccer_b_ws/src/build/vision_test/build install --record /home/zhe/code/soccer_b_ws/src/build/vision_test/install.log --single-version-externally-managed

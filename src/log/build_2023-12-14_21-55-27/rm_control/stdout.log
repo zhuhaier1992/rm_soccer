@@ -1,0 +1,33 @@
+running develop
+Removing /home/zhe/code/soccer_b_ws/src/install/rm_control/lib/python3.8/site-packages/rm-control.egg-link (link to .)
+running egg_info
+writing ../build/rm_control/rm_control.egg-info/PKG-INFO
+writing dependency_links to ../build/rm_control/rm_control.egg-info/dependency_links.txt
+writing entry points to ../build/rm_control/rm_control.egg-info/entry_points.txt
+writing requirements to ../build/rm_control/rm_control.egg-info/requires.txt
+writing top-level names to ../build/rm_control/rm_control.egg-info/top_level.txt
+reading manifest file '../build/rm_control/rm_control.egg-info/SOURCES.txt'
+writing manifest file '../build/rm_control/rm_control.egg-info/SOURCES.txt'
+running build
+running build_py
+copying rm_control/rm_control.py -> /home/zhe/code/soccer_b_ws/src/build/rm_control/build/lib/rm_control
+running install
+running install_lib
+creating /home/zhe/code/soccer_b_ws/src/install/rm_control/lib/python3.8/site-packages/rm_control
+copying /home/zhe/code/soccer_b_ws/src/build/rm_control/build/lib/rm_control/rm_control.py -> /home/zhe/code/soccer_b_ws/src/install/rm_control/lib/python3.8/site-packages/rm_control
+copying /home/zhe/code/soccer_b_ws/src/build/rm_control/build/lib/rm_control/rm.py -> /home/zhe/code/soccer_b_ws/src/install/rm_control/lib/python3.8/site-packages/rm_control
+copying /home/zhe/code/soccer_b_ws/src/build/rm_control/build/lib/rm_control/RVO_neo.py -> /home/zhe/code/soccer_b_ws/src/install/rm_control/lib/python3.8/site-packages/rm_control
+copying /home/zhe/code/soccer_b_ws/src/build/rm_control/build/lib/rm_control/__init__.py -> /home/zhe/code/soccer_b_ws/src/install/rm_control/lib/python3.8/site-packages/rm_control
+copying /home/zhe/code/soccer_b_ws/src/build/rm_control/build/lib/rm_control/utils.py -> /home/zhe/code/soccer_b_ws/src/install/rm_control/lib/python3.8/site-packages/rm_control
+byte-compiling /home/zhe/code/soccer_b_ws/src/install/rm_control/lib/python3.8/site-packages/rm_control/rm_control.py to rm_control.cpython-38.pyc
+byte-compiling /home/zhe/code/soccer_b_ws/src/install/rm_control/lib/python3.8/site-packages/rm_control/rm.py to rm.cpython-38.pyc
+byte-compiling /home/zhe/code/soccer_b_ws/src/install/rm_control/lib/python3.8/site-packages/rm_control/RVO_neo.py to RVO_neo.cpython-38.pyc
+byte-compiling /home/zhe/code/soccer_b_ws/src/install/rm_control/lib/python3.8/site-packages/rm_control/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/zhe/code/soccer_b_ws/src/install/rm_control/lib/python3.8/site-packages/rm_control/utils.py to utils.cpython-38.pyc
+running install_data
+copying launch/ep_control.launch.py -> /home/zhe/code/soccer_b_ws/src/install/rm_control/share/rm_control/launch
+running install_egg_info
+Copying ../build/rm_control/rm_control.egg-info to /home/zhe/code/soccer_b_ws/src/install/rm_control/lib/python3.8/site-packages/rm_control-0.0.0-py3.8.egg-info
+running install_scripts
+Installing rm_control script to /home/zhe/code/soccer_b_ws/src/install/rm_control/lib/rm_control
+writing list of installed files to '/home/zhe/code/soccer_b_ws/src/build/rm_control/install.log'

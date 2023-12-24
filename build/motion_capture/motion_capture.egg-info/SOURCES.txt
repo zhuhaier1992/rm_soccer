@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+motion_capture/__init__.py
+motion_capture/inbetween.py
+motion_capture/motion_capture.py
+motion_capture.egg-info/PKG-INFO
+motion_capture.egg-info/SOURCES.txt
+motion_capture.egg-info/dependency_links.txt
+motion_capture.egg-info/entry_points.txt
+motion_capture.egg-info/requires.txt
+motion_capture.egg-info/top_level.txt
+motion_capture.egg-info/zip-safe
+resource/motion_capture

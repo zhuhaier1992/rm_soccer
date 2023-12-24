@@ -1,0 +1,28 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from ros2_interfaces/srv/Control.srv
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Pose2D.idl"
+
+module ros2_interfaces {
+  module srv {
+    struct Control_Request {
+      int32 id;
+
+      @verbatim (language="comment", text=
+        " 0: stop 1: move 2: kick 3: catch 4: reset")
+      int32 status;
+    };
+    struct Control_Response {
+      @verbatim (language="comment", text=
+        " 0: stop 1: move 2: kick 3: catch 4: reset")
+      int32 status;
+
+      @verbatim (language="comment", text=
+        " 0: no action 1: catch 2: release")
+      int32 action;
+
+      geometry_msgs::msg::Pose2D pose;
+    };
+  };
+};

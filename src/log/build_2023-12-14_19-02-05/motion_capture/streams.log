@@ -1,0 +1,24 @@
+[1.690s] Invoking command in '/home/zhe/code/soccer_b_ws/src/build/motion_capture': AMENT_PREFIX_PATH=/home/zhe/code/soccer_b_ws/src/install/ros2_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zhe/code/soccer_b_ws/src/install/ros2_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/zhe/code/soccer_b_ws/src/install/ros2_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/zhe/code/soccer_b_ws/src/build/motion_capture/prefix_override:/home/zhe/code/soccer_b_ws/src/install/motion_capture/lib/python3.8/site-packages:/home/zhe/code/soccer_b_ws/src/install/ros2_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zhe/code/soccer_b_ws/src/build/motion_capture/build --no-deps install_data
+[1.833s] running develop
+[1.908s] running egg_info
+[1.908s] creating motion_capture.egg-info
+[1.908s] writing motion_capture.egg-info/PKG-INFO
+[1.908s] writing dependency_links to motion_capture.egg-info/dependency_links.txt
+[1.908s] writing entry points to motion_capture.egg-info/entry_points.txt
+[1.908s] writing requirements to motion_capture.egg-info/requires.txt
+[1.908s] writing top-level names to motion_capture.egg-info/top_level.txt
+[1.909s] writing manifest file 'motion_capture.egg-info/SOURCES.txt'
+[1.927s] reading manifest file 'motion_capture.egg-info/SOURCES.txt'
+[1.927s] writing manifest file 'motion_capture.egg-info/SOURCES.txt'
+[1.947s] running build_ext
+[1.947s] Creating /home/zhe/code/soccer_b_ws/src/install/motion_capture/lib/python3.8/site-packages/site.py
+[1.948s] Creating /home/zhe/code/soccer_b_ws/src/install/motion_capture/lib/python3.8/site-packages/motion-capture.egg-link (link to .)
+[1.949s] 
+[1.949s] Installed /home/zhe/code/soccer_b_ws/src/build/motion_capture
+[1.949s] running install_data
+[1.949s] creating /home/zhe/code/soccer_b_ws/src/install/motion_capture/share/ament_index
+[1.949s] creating /home/zhe/code/soccer_b_ws/src/install/motion_capture/share/ament_index/resource_index
+[1.949s] creating /home/zhe/code/soccer_b_ws/src/install/motion_capture/share/ament_index/resource_index/packages
+[1.949s] copying resource/motion_capture -> /home/zhe/code/soccer_b_ws/src/install/motion_capture/share/ament_index/resource_index/packages
+[1.949s] copying package.xml -> /home/zhe/code/soccer_b_ws/src/install/motion_capture/share/motion_capture
+[2.055s] Invoked command in '/home/zhe/code/soccer_b_ws/src/build/motion_capture' returned '0': AMENT_PREFIX_PATH=/home/zhe/code/soccer_b_ws/src/install/ros2_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zhe/code/soccer_b_ws/src/install/ros2_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/zhe/code/soccer_b_ws/src/install/ros2_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/zhe/code/soccer_b_ws/src/build/motion_capture/prefix_override:/home/zhe/code/soccer_b_ws/src/install/motion_capture/lib/python3.8/site-packages:/home/zhe/code/soccer_b_ws/src/install/ros2_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zhe/code/soccer_b_ws/src/build/motion_capture/build --no-deps install_data

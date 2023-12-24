@@ -1,0 +1,3 @@
+[console_scripts]
+rm_control = rm_control.rm_control:main
+

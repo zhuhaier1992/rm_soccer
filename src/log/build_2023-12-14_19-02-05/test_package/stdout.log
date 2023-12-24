@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating test_package.egg-info
+writing test_package.egg-info/PKG-INFO
+writing dependency_links to test_package.egg-info/dependency_links.txt
+writing entry points to test_package.egg-info/entry_points.txt
+writing requirements to test_package.egg-info/requires.txt
+writing top-level names to test_package.egg-info/top_level.txt
+writing manifest file 'test_package.egg-info/SOURCES.txt'
+reading manifest file 'test_package.egg-info/SOURCES.txt'
+writing manifest file 'test_package.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/zhe/code/soccer_b_ws/src/install/test_package/lib/python3.8/site-packages/site.py
+Creating /home/zhe/code/soccer_b_ws/src/install/test_package/lib/python3.8/site-packages/test-package.egg-link (link to .)
+Installing motion_capture script to /home/zhe/code/soccer_b_ws/src/install/test_package/lib/test_package
+
+Installed /home/zhe/code/soccer_b_ws/src/build/test_package
+running install_data
+creating /home/zhe/code/soccer_b_ws/src/install/test_package/share/ament_index
+creating /home/zhe/code/soccer_b_ws/src/install/test_package/share/ament_index/resource_index
+creating /home/zhe/code/soccer_b_ws/src/install/test_package/share/ament_index/resource_index/packages
+copying resource/test_package -> /home/zhe/code/soccer_b_ws/src/install/test_package/share/ament_index/resource_index/packages
+copying package.xml -> /home/zhe/code/soccer_b_ws/src/install/test_package/share/test_package

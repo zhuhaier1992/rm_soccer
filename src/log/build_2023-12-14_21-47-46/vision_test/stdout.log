@@ -1,0 +1,30 @@
+running develop
+Removing /home/zhe/code/soccer_b_ws/src/install/vision_test/lib/python3.8/site-packages/vision-test.egg-link (link to .)
+running egg_info
+writing ../build/vision_test/vision_test.egg-info/PKG-INFO
+writing dependency_links to ../build/vision_test/vision_test.egg-info/dependency_links.txt
+writing entry points to ../build/vision_test/vision_test.egg-info/entry_points.txt
+writing requirements to ../build/vision_test/vision_test.egg-info/requires.txt
+writing top-level names to ../build/vision_test/vision_test.egg-info/top_level.txt
+reading manifest file '../build/vision_test/vision_test.egg-info/SOURCES.txt'
+writing manifest file '../build/vision_test/vision_test.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/zhe/code/soccer_b_ws/src/build/vision_test/build
+creating /home/zhe/code/soccer_b_ws/src/build/vision_test/build/lib
+creating /home/zhe/code/soccer_b_ws/src/build/vision_test/build/lib/vision_test
+copying vision_test/vision_get.py -> /home/zhe/code/soccer_b_ws/src/build/vision_test/build/lib/vision_test
+copying vision_test/__init__.py -> /home/zhe/code/soccer_b_ws/src/build/vision_test/build/lib/vision_test
+running install
+running install_lib
+creating /home/zhe/code/soccer_b_ws/src/install/vision_test/lib/python3.8/site-packages/vision_test
+copying /home/zhe/code/soccer_b_ws/src/build/vision_test/build/lib/vision_test/vision_get.py -> /home/zhe/code/soccer_b_ws/src/install/vision_test/lib/python3.8/site-packages/vision_test
+copying /home/zhe/code/soccer_b_ws/src/build/vision_test/build/lib/vision_test/__init__.py -> /home/zhe/code/soccer_b_ws/src/install/vision_test/lib/python3.8/site-packages/vision_test
+byte-compiling /home/zhe/code/soccer_b_ws/src/install/vision_test/lib/python3.8/site-packages/vision_test/vision_get.py to vision_get.cpython-38.pyc
+byte-compiling /home/zhe/code/soccer_b_ws/src/install/vision_test/lib/python3.8/site-packages/vision_test/__init__.py to __init__.cpython-38.pyc
+running install_data
+running install_egg_info
+Copying ../build/vision_test/vision_test.egg-info to /home/zhe/code/soccer_b_ws/src/install/vision_test/lib/python3.8/site-packages/vision_test-0.0.0-py3.8.egg-info
+running install_scripts
+Installing vision_get script to /home/zhe/code/soccer_b_ws/src/install/vision_test/lib/vision_test
+writing list of installed files to '/home/zhe/code/soccer_b_ws/src/build/vision_test/install.log'

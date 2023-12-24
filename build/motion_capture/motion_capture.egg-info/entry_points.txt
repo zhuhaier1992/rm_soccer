@@ -1,0 +1,4 @@
+[console_scripts]
+inbetween = motion_capture.inbetween:main
+motion_capture = motion_capture.motion_capture:main
+

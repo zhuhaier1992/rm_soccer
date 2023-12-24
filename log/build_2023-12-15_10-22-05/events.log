@@ -1,0 +1,7 @@
+[0.000000] (-) TimerEvent: {}
+[0.000176] (-) JobUnselected: {'identifier': 'motion_capture'}
+[0.000234] (-) JobUnselected: {'identifier': 'rm_control'}
+[0.000263] (-) JobUnselected: {'identifier': 'ros2_interfaces'}
+[0.000272] (-) JobUnselected: {'identifier': 'test_package'}
+[0.000281] (-) JobUnselected: {'identifier': 'vision_test'}
+[0.000363] (-) EventReactorShutdown: {}

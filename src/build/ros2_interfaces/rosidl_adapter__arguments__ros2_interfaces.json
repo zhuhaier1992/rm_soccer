@@ -1,0 +1,7 @@
+{
+  "package_name": "ros2_interfaces",
+  "non_idl_tuples": [
+    "/home/zhe/code/soccer_b_ws/src/ros2_interfaces:msg/RobotPose.msg",
+    "/home/zhe/code/soccer_b_ws/src/ros2_interfaces:msg/RobotTwist2D.msg"
+  ]
+}
